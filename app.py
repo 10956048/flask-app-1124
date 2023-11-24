@@ -20,6 +20,7 @@ def index():
 def customer_test():
     ''' #註解 方法1
     data = {} #空的字典data
+    data['name'] = '王大明' #包在data裡面.變數名稱
     data['name'] = '王小明' #包在data裡面.變數名稱
     data['gender'] = '男'
     '''
